@@ -54,4 +54,4 @@ Dataset com 442 pacientes diabéticos, 10 variáveis preditoras (idade, sexo, IM
 ### Otimização
 - Conversão de tipos de dados, reduzindo o tamanho de memória de 38,1 KB para 13,5 KB (~64,57%).
 
-
+![Resultado da EDA](relatorios/imagens/resultado_EDA.jpg)
