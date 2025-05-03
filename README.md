@@ -1,4 +1,4 @@
-# Análise estatística de base de dados de diabetes
+# Análise Estatística e EDA - Projeto Diabetes
 
 ![imagem](relatorios/imagens/diabetes.jpg)
 
