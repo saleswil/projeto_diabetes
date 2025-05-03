@@ -1,6 +1,6 @@
 # Análise estatística de base de dados de diabetes
 
-![imagem](imagens/diabetes.jpg)
+![imagem](relatorios/imagens/diabetes.jpg)
 
 ## Organização do projeto
 
